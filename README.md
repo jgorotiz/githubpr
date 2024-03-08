@@ -19,3 +19,5 @@ git checkout -b <nombre_integrante>
 - Hacer merge de la rama master.
 
 - Desplegar la página en Github Pages.
+
+- Esto es todo!
